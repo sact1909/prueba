@@ -1,0 +1,7 @@
+C:\Users\steve\source\repos\John Clasess\basic app\basic app\bin\Debug\basic app.exe.config
+C:\Users\steve\source\repos\John Clasess\basic app\basic app\bin\Debug\basic app.exe
+C:\Users\steve\source\repos\John Clasess\basic app\basic app\bin\Debug\basic app.pdb
+C:\Users\steve\source\repos\John Clasess\basic app\basic app\obj\Debug\basic app.csprojAssemblyReference.cache
+C:\Users\steve\source\repos\John Clasess\basic app\basic app\obj\Debug\basic app.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\John Clasess\basic app\basic app\obj\Debug\basic app.exe
+C:\Users\steve\source\repos\John Clasess\basic app\basic app\obj\Debug\basic app.pdb
